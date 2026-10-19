@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.0
+
+- OpenInvento release: [v1.2.0](https://github.com/openinvento/openinvento/releases/tag/v1.2.0)
+
+
 ## 1.1.2
 
 - OpenInvento release: [v1.1.2](https://github.com/openinvento/openinvento/releases/tag/v1.1.2)

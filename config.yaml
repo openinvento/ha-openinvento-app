@@ -1,6 +1,6 @@
 name: OpenInvento
 slug: openinvento
-version: "1.3.1"
+version: "1.4.1"
 image: ghcr.io/openinvento/ha-openinvento-app
 description: Self-hosted home inventory management
 url: https://github.com/openinvento/openinvento
